@@ -1,0 +1,28 @@
+{
+  "name": "kamino",
+  "version": "1.0.0",
+  "description": "Where bots 🤖 are created and trained 💪🏽",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhamPac/kamino.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "hashtag"
+  ],
+  "author": "jhampac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhamPac/kamino/issues"
+  },
+  "homepage": "https://github.com/jhamPac/kamino#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "twitter": "^1.7.1"
+  }
+}
